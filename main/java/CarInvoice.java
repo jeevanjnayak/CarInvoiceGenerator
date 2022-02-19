@@ -11,4 +11,5 @@ public class CarInvoice {
                 totalFare = MINIMUM_FARE;
             return totalFare;
         }
+
 }
